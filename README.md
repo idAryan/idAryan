@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="[https://komarev.com/ghpvc/?username=idaryan&label=Profile%20views&color=0e75b6&style=flat](https://i.imgflip.com/2lhzdi.jpg)" alt="idaryan" /> </p>
 
-- 👯 I’m looking to collaborate on **ML Projects**
+- 👯 I’m working with RAG and LLMs and looking to collaborate and learn with you people**
 
 <h3 align="left">Connect with me:</h3>
 
