@@ -2,7 +2,7 @@
 
 <h3 align="center">Machine Learning/DSA</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=idaryan&label=Profile%20views&color=0e75b6&style=flat](https://i.imgflip.com/2lhzdi.jpg)" alt="idaryan" /> </p>
+<p align="left"> </p>
 
 - 👯 I’m working with RAG and LLMs and looking to collaborate and learn with you people**
 
