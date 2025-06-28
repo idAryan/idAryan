@@ -12,9 +12,6 @@
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aryan-sharma-71909a252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-sharma-71909a252/" height="30" width="40" /></a>
 
-<a href="https://kaggle.com/https://www.kaggle.com/aryan2226cseml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/aryan2226cseml" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/https://leetcode.com/u/aryanhoney_ar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/aryanhoney_ar/" height="30" width="40" /></a>
 
 </p>
 
