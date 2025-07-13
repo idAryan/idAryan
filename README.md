@@ -4,7 +4,7 @@
 
 <p align="left"> </p>
 
-- 👯 I’m working Data Science and Machine Learning and looking to collaborate and learn with you people, I could find best suited model for your dataset**
+- 👯 I'm looking to collaborate with people**
 
 <h3 align="left">Connect with me:</h3>
 
