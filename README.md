@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
 
-<h3 align="center">Data Science and Machine learning</h3>
+<h3 align="center">Machine learning</h3>
 
 <p align="left"> </p>
 
-- 👯 I'm looking to collaborate with people**
+- 👯 I'm always looking to collaborate & contribute **
 
 <h3 align="left">Connect with me:</h3>
 
